@@ -8,3 +8,8 @@ C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Core\bin\Debug\IT-Core.
 C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Core\obj\Debug\IT-Core.csprojResolveAssemblyReference.cache
 C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Core\obj\Debug\IT-Core.dll
 C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Core\obj\Debug\IT-Core.pdb
+C:\Users\monik\Desktop\IT-Repository\IT-Core\bin\Debug\IT-Core.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Core\bin\Debug\IT-Core.pdb
+C:\Users\monik\Desktop\IT-Repository\IT-Core\obj\Debug\IT-Core.csprojResolveAssemblyReference.cache
+C:\Users\monik\Desktop\IT-Repository\IT-Core\obj\Debug\IT-Core.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Core\obj\Debug\IT-Core.pdb

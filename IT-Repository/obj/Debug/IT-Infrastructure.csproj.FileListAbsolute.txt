@@ -1,0 +1,24 @@
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\IT-Repository.dll.config
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\IT-Repository.dll
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\IT-Repository.pdb
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\EntityFramework.dll
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\IT-Core.dll
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\IT-Core.pdb
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\EntityFramework.xml
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\obj\Debug\IT-Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\obj\Debug\IT-Repository.dll
+C:\Users\monik\Documents\Visual Studio 2015\IT-Proekt\IT-Repository\obj\Debug\IT-Repository.pdb
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\IT-Repository.dll.config
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\IT-Repository.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\IT-Repository.pdb
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\EntityFramework.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\IT-Core.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\IT-Core.pdb
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\EntityFramework.xml
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\obj\Debug\IT-Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\obj\Debug\IT-Repository.dll
+C:\Users\monik\Desktop\IT-Repository\IT-Repository\obj\Debug\IT-Repository.pdb

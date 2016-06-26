@@ -21,6 +21,17 @@ namespace IT_Core
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
         public string CreditNum { get; set; }
+       
+        public List<Seat> ReservedSeats { get; set; }
+
+        public void ReserveSeat(Seat seat)
+        {
+            ReservedSeats.Add(seat);
+        } 
+        public void RemoveReservedSeat(Seat seat)
+        {
+            ReservedSeats.Remove(seat);
+        }
 
     }
 }

@@ -9,7 +9,7 @@ namespace IT_Core
     public class Base
     {
         public int ID { get; set; }
-        public DateTime DateCreated { get; set; }
+        public DateTime DateCreated = DateTime.Now;
 
         
     }

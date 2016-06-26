@@ -10,6 +10,9 @@ namespace IT_Core
     {
         public string SerialNum { get; set; }
         public int Capacity { get; set; }
+        public List<Seat> Seats { get; set; }
+
+        
 
     }
 }
